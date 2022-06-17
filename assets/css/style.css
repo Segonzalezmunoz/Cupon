@@ -1,0 +1,27 @@
+nav{
+    background: #28A745; 
+    color: #FFFFFF80; 
+}
+
+.direccion ul li{
+
+    display: inline-block;
+    
+    
+}
+
+
+.precios ul li{
+
+    display: inline-block;
+    
+}
+
+article{
+    background: #28A745; 
+    color: #FFFFFF80; 
+}
+
+footer{
+    text-align: center;
+}
